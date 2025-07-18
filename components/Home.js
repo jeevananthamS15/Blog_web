@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className={style.home}>
       <div>
-        <h1>Welcome To our Blog Website</h1>
+        <h1>Welcome To My Movie Blog Website</h1>
       </div>
 
       <div className={style.main}>
