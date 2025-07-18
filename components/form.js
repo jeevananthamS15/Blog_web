@@ -24,7 +24,7 @@ const Form = ({ val }) => {
     // const formData = { name, email, password };
     // localStorage.setItem('formData', JSON.stringify(formData));
     // alert('Form data saved locally!');
-    const check=name.includes("Admin");
+    const check=name.includes("Adminjeeva");
     const admin="Admin";
     const user="user";
     if(check){
